@@ -1,11 +1,17 @@
-.title {
+.header {
+  font-family: 'Oswald', sans-serif;
+}
+
+.header__title {
+  font-family: 'Roboto Slab', serif;
   background-color: #FA8072;
 }
 
-.description {
+.header__description {
   text-indent: 50px;
 }
 
-.title-two {
-    background-color: #FFA07A
+.header__title-two {
+    background-color: #FFA07A;
+    font-family: 'Roboto Slab', serif;
 }
